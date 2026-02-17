@@ -6,15 +6,24 @@ Python
 Pandas
 Matplotlib
 
+
 What I Learned:
 Data loading and preprocessing using Pandas
+
 Data cleaning and basic transformations
+
 Creating different types of visualizations using Matplotlib
+
 Exporting results into a well-formatted PDF report
+
 Understanding the workflow of data analysis projects
 
 🚀 Key Skills Demonstrated
+
 Data Analysis
+
 Data Visualization
+
 Python Programming
+
 Report Documentation
